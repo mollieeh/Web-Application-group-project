@@ -1,21 +1,11 @@
-# FrontDash – Welcome Page
 
-This is a React + Vite project based on a Figma design. It displays the FrontDash welcome page with featured restaurants.
+  # Create Welcome Landing Page
 
-## Getting Started
+  This is a code bundle for Create Welcome Landing Page. The original project is available at https://www.figma.com/design/gAm3GIH2L4snF00w2D9tf3/Create-Welcome-Landing-Page.
 
-### Requirements
-- Node.js (version 18 or higher recommended)
-- npm (comes with Node)
+  ## Running the code
 
-### Install and Run
-From the project folder run:
-npm install
-npm run dev
-You will see a local address in the terminal, usually:
-http://localhost:5173/
-Open this in your browser to view the page.
+  Run `npm i` to install the dependencies.
 
-## Build for Production
-npm run build
-npm run preview
+  Run `npm run dev` to start the development server.
+  
